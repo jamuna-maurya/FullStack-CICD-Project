@@ -157,13 +157,6 @@ Frontend Image:
 Backend Image:
  your-Dockerhub-name/backend-app:latest
 
- Screenshots
-
-    # <img width="2208" height="764" alt="image" src="https://github.com/user-attachments/assets/21cafb22-2fcd-4400-9e0a-95e4df374a24" />
-
- #   <img width="1110" height="618" alt="image" src="https://github.com/user-attachments/assets/c4722ba3-c688-4b53-9529-f9287060cb81" />
-
- #  <img width="1878" height="876" alt="image" src="https://github.com/user-attachments/assets/a1032612-6f51-4262-a592-5d47c4ff319a" />
 
 
 Author
