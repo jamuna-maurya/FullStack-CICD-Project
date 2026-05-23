@@ -157,6 +157,15 @@ Frontend Image:
 Backend Image:
  your-Dockerhub-name/backend-app:latest
 
+## Commands Used
+     docker ps
+     docker compose up -d
+     docker compose pull
+
+     git add .
+     git commit -m "updated project"
+     git push
+
 
 
 Author
